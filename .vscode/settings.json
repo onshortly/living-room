@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-webgl-youtube-main.sln"
+    "dotnet.defaultSolution": "living-room.sln"
 }
